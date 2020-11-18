@@ -4,6 +4,8 @@
 - OpenCore 0.6.3 macOS 11.0.1
 - Clover 4945 macOS 10.14.5
 
+--------------------------------------------------------------------------------------------
+
 ### Specs
 - Model:    HP EliteDesk 800 G1 DM
 - CPU:      Intel® Core i7-4870HQ
@@ -16,10 +18,12 @@
 - Ethernet: Intel® I217LM PCI Express Gigabit Ethernet
 - Others:   6xUSB3.0 ports, 2xDP, VGA
 - BIOS:     2.33 (modified bios)
+
 --------------------------------------------------------------------------------------------
 
 ### Not Worked / Bugs
 - DP Ports Audio Output
+- VGA Ports (Not a bug,VGA doesn't work in Macos)
 
 --------------------------------------------------------------------------------------------
 
